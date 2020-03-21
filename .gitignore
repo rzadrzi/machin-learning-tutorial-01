@@ -9,5 +9,5 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
-.01-Regression/.ipynb_checkpoints
 .vscode
+.ipynb_checkpoints
